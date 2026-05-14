@@ -1,4 +1,4 @@
-# 
+# Enhance Audacity for macOS with automatic Audacity for macOS LUT | social-media-export + lower-thirds, the #1 lut. Includes social-media-export and lower-thirds for a smoother and
 
 
 
